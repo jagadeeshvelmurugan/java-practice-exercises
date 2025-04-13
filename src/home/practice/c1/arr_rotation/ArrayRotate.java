@@ -1,7 +1,7 @@
 package home.practice.c1.arr_rotation;
 public class ArrayRotate {
     public static void main(String[] args) throws Exception {
-        System.out.println("Hello, World!");
+       // System.out.println("Hello, World!");
         int nums[]={1,2,3,4,5};
         int order =1;
         int rotated_arr[]= bubbleRotate(nums,order);
