@@ -1,4 +1,4 @@
-package home.practice.c2.sampledocker;
+package home.practice.c2.sampledocker.app;
 
 public class SimpleApp {
     public static void main(String[] args) {
